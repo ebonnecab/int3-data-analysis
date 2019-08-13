@@ -26,5 +26,7 @@ Click [here](https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-t
 * [Handling Categorical Data in Python](https://www.datacamp.com/community/tutorials/categorical-data)
 * [Data Visualization Using Seaborn](https://towardsdatascience.com/data-visualization-using-seaborn-fc24db95a850)
 * [Visualizing Economic Data Using Plotly](https://towardsdatascience.com/visualising-economic-data-using-plotly-a07f96f58160)
+* [Pandas Tutorial 2: Aggregation and Grouping](https://data36.com/pandas-tutorial-2-aggregation-and-grouping/)
+
 
 ## Summary of Analysis
