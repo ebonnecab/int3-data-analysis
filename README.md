@@ -30,3 +30,14 @@ Click [here](https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-t
 
 
 ## Summary of Analysis
+While I didn't necessary find any correlation between the different features in my data as it relates to the suicide rate, I did find some interesting information. 
+
+I found that the number of suicides among males were reported at a higher rate than females. I also noticed that the suicide rate for males spiked after 2015. 
+
+Generation Z had the lowest number of suicides. This could be because they're still young or potentially due to other factors not visible in this particular dataset. Boomers and the Silent Generation had the highest suicide rate amongst all the different generations. 
+
+The highest number of suicides come from those within the 35-54 year old and the 55-74 year old age group. The 5-15 year old age group had the lowest number of suicides. 
+
+There were certain countries with abnormally high suicide rates that skewed the data. However I think this information is worth noting. The United States, Russian Confederation, Ukraine, Japan, Germany, and France (to name a few) purported much higher numbers than other countries. 
+
+I plan to continue working with this dataset as I deepen my understand of data analysis and machine learning.
