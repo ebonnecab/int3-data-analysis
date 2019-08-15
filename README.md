@@ -3,7 +3,7 @@
 ## Overview
 I chose this project because I like to study **topics that impact a wide variety of people** in the hopes of improving the lives of others. This data contains reported suicide numbers from countries all around the world as well as each country's GDP, HDI(Human Development Index), and certain demographic information such as sex, generation, and the year it was reported. 
 
-I was curious as to whether there was any correlation between any of this data and if we could find any trends or patterns that can give us insight into this issue. I also wanted to practice the exploratory data analysis methods I learned in my intro to data analysis class. Specifically data-cleaning, data-formatting, statistical analysis, categorical data analysis, and data-visualization.
+I was curious as to whether there was any correlation between any of the features in this data and if we could find any trends or patterns that can give us insight into this issue. I also wanted to practice the exploratory data analysis methods I learned in my intro to data analysis class. Specifically data-cleaning, data-formatting, statistical analysis, categorical data analysis, and data-visualization.
 
 ## Dataset
 Click [here](https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016) to find the dataset I used for my analysis.
